@@ -8,16 +8,10 @@
 **Disaster vs. Non-Disaster Detection using Classical Machine Learning**
 
 [![Python](https://img.shields.io/badge/Python-3.12-blue)](https://python.org)
-
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.6.1-orange)](https://scikit-learn.org)
-
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-
-
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18pfgtM_4gbYDSLi68CeHcYzqc0vozaN9?usp=sharing)
-
 [![GitHub](https://img.shields.io/badge/GitHub-guykaptue-181717?logo=github)](https://github.com/guykaptue)
-
 [![Academic Report](https://img.shields.io/badge/📄_Academic_Report-PDF-blue?logo=adobeacrobatreader&logoColor=white&labelColor=555)](reports/docs/disaster_tweet_report.pdf)
 *(Vollständiger akademischer Bericht mit Methodik, Ergebnissen und Diskussion)*
 
