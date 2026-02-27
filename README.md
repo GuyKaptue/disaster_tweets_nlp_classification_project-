@@ -12,7 +12,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![GitHub](https://img.shields.io/badge/GitHub-guykaptue-181717?logo=github)](https://github.com/guykaptue)
 
-**Click to open in Colab (notebook) or to open the Academic Report (PDF)t**
+**Click to open in Colab (notebook) or to open the Academic Report (PDF)**
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18pfgtM_4gbYDSLi68CeHcYzqc0vozaN9?usp=sharing)
 [![Academic Report](https://img.shields.io/badge/📄_Academic_Report-PDF-blue?logo=adobeacrobatreader&logoColor=white&labelColor=555)](reports/docs/disaster_tweet_report.pdf)
