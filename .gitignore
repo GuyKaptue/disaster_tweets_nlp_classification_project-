@@ -1,0 +1,102 @@
+# ==============================
+# Operating System Files
+# ==============================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# ==============================
+# Python Cache & Compiled Files
+# ==============================
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# ==============================
+# Virtual Environments
+# ==============================
+
+venv/
+.venv/
+env/
+ENV/
+
+# Conda
+conda-env/
+conda/
+*.conda
+
+# ==============================
+# Jupyter Notebook Checkpoints
+# ==============================
+
+.ipynb_checkpoints/
+
+# ==============================
+# IDE / Editor Folders
+# ==============================
+
+# VS Code
+.vscode/
+
+# PyCharm / IntelliJ
+.idea/
+
+# Spyder
+.spyproject/
+
+# ==============================
+# Logs & Temporary Files
+# ==============================
+
+*.log
+logs/
+tmp/
+temp/
+
+# ==============================
+# Build / Distribution
+# ==============================
+
+build/
+dist/
+.eggs/
+*.egg-info/
+
+# ==============================
+# Kaggle API Credentials
+# ==============================
+
+kaggle.json
+
+# ==============================
+# Environment Files (Optional)
+# ==============================
+
+.env
+.env.*
+
+# ==============================
+# IMPORTANT:
+# We DO NOT ignore:
+# - .csv
+# - .ipynb
+# - .png
+# - .pdf
+# - .model
+# - .pkl
+# ==============================
